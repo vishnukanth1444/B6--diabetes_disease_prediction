@@ -1,0 +1,51 @@
+Diabetes Disease Prediction Using Machine Learning Algorithms
+
+Diabetes disease, Machine Learning (ML),
+Disease risk analysis, Confusion Matrix, Scikit-learn, Body
+mass Index (BMI), Precision, Recall, F1-Score, Pandas,
+NumPy and Python.
+
+
+
+Diabetes_Disease_Prediction
+
+diabetes_disease_prediction
+
+
+
+
+diabetes_disease_model
+
+Pregnancies
+Glucose
+BloodPressure
+SkinThickness
+Insulin
+BMI
+DiabetesPedigreeFunction
+Age
+
+
+diabetes_disease_prediction
+
+Pregnancies
+Glucose
+BloodPressure
+SkinThickness
+Insulin
+BMI
+DiabetesPedigreeFunction
+Age
+Prediction
+Status
+
+
+
+
+diabetes_disease_model,diabetes_disease_prediction,detection_results_model,detection_ratio_model
+
+
+
+
+
+
